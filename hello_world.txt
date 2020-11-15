@@ -1,0 +1,1 @@
+This is Thayer's first git project!
